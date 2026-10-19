@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/timetable';
+const API_URL = 'https://student-timetable-goals-1.onrender.com/api/timetable';
 
 const form = document.getElementById('timetable-form');
 const recordIdInput = document.getElementById('record-id');
