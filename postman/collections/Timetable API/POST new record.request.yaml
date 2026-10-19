@@ -1,0 +1,13 @@
+$kind: http-request
+url: http://localhost:3000/api/timetable
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: text
+  content: |-
+    {
+      "course_code": "ICT305",
+      "course_name": "Mobile App Development"
+    }
+order: 3000

@@ -1,0 +1,13 @@
+# Use this workspace to collaborate
+workspace:
+  id: 3be60e86-f9b8-4171-8fe8-c5bff18c2980
+
+cloudResources:
+  collections:
+    ../postman/collections/Timetable API: 1d96a93b-3598-41df-84ac-384fbff308f1
+
+# All resources in the `postman/` folder are automatically registered in Local View.
+# Point to additional files outside the `postman/` folder to register them individually. Example:
+#localResources:
+#  collections:
+#    - ../tests/E2E Test Collection/
